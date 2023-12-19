@@ -28,10 +28,6 @@ src="https://img.shields.io/twitch/status/srpancakesdev?logo=twitchsx&style=for-
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SrPancakes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SrPancakes&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
