@@ -32,6 +32,6 @@ src="https://img.shields.io/twitch/status/srpancakesdev?logo=twitchsx&style=for-
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/srpancakes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="list-style-type: none; display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/srpancakes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
