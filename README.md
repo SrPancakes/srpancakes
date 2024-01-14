@@ -1,15 +1,7 @@
-Hi I'm Lucas  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=============================================================================================================================
+<img width="1834" alt="Make your README" src="https://github.com/SrPancakes/srpancakes/assets/74025821/b28186f1-270c-457d-b72b-e087ca8becc4">
 
-Fullstack developer
+
 -------------------
-
-Computing student passionated about programming, willing to become a frontend and backend developer.
-
-* 🌍  I'm based in Spain
-* ✉️  You can contact me at [l.nunezg.dev@gmail.com](mailto:l.nunezg.dev@gmail.com)
-* 🚀  I'm currently working on [Nauga Diving Webpage](http://naugabuceo.com)
-* 🧠  I'm learning Astro framework
 
 <a href="https://www.twitch.tv/srpancakesdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/srpancakesdev?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=1c1917&label=TWITCH+STATUS" /></a>
