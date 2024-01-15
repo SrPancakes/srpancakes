@@ -77,7 +77,7 @@ const lucas = {
     <img src="https://github.com/SrPancakes/srpancakes/assets/74025821/f0d0f3d9-5f28-42e5-8778-57c953ffb4fe" width="72" height="72" alt="Git" /></a>
 </p>
 
-<br /><br />
+<br />
 
 ### Support Me
 
