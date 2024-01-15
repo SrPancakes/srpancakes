@@ -28,6 +28,7 @@
 ```javascript
 const lucas = {
     country: 'Spain'
+    class: 'Developer'
     code: ['HTML', 'CSS', 'JavaScript'],
     askMeAbout: [Coding, Tech, Cooking, Coffee],
     technologies: {
