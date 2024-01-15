@@ -23,7 +23,7 @@
 </div>
 
 
-### aboutMe.js
+### aboutMe.json
 
 ```javascript
 const lucas = {
