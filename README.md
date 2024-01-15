@@ -79,8 +79,6 @@ const lucas = {
 
 <br />
 
-### Badges
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/srpancakes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
