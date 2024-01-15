@@ -9,12 +9,16 @@
     src="https://img.shields.io/badge/TWITCH-%40SrPancakes-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   
   <a href="https://www.youtube.com/@SrPancakes" target="_blank" rel="noreferrer">
-  <img 
-    src="https://img.shields.io/badge/YOUTUBE-%40SrPancakes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <img 
+      src="https://img.shields.io/badge/YOUTUBE-%40SrPancakes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   
   <a href="https://www.medium.com/@SrPancakes" target="_blank" rel="noreferrer">
-  <img 
-    src="https://img.shields.io/badge/MEDIUM-%40SrPancakes-ffe140?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <img 
+      src="https://img.shields.io/badge/MEDIUM-%40SrPancakes-ffe140?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+  <a href="https://twitter.com/SrPancakesDev" target="_blank" rel="noreferrer">
+    <img 
+      src="https://img.shields.io/badge/TWITTER-%40SrPancakes-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 </div>
 
 
@@ -73,10 +77,6 @@ const lucas = {
 </p>
 
 <br />
-
-### Socials
-<a href=''><img src='https://github.com/SrPancakes/srpancakes/assets/74025821/1ccf66d5-e988-48de-83ac-dac70b200cfc#gc-dark-mode-only' width='100' /></a>
-<a href=''><img src='https://github.com/SrPancakes/srpancakes/assets/74025821/dc7ba0cf-82f0-4468-a3d0-5e52fdf15aa5#gh-light-mode-only' width='100' /></a>
 
 ### Badges
 
