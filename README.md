@@ -4,10 +4,6 @@
 -------------------
 <div align='center'>
   
-  <a href="https://www.twitch.tv/srpancakesdev" target="_blank" rel="noreferrer">
-  <img 
-    src="https://img.shields.io/badge/TWITCH-%40SrPancakes-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  
   <a href="https://www.youtube.com/@SrPancakes" target="_blank" rel="noreferrer">
     <img 
       src="https://img.shields.io/badge/YOUTUBE-%40SrPancakes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
