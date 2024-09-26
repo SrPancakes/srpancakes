@@ -2,23 +2,6 @@
 
 
 -------------------
-<div align='center'>
-  
-  <a href="https://www.youtube.com/@SrPancakes" target="_blank" rel="noreferrer">
-    <img 
-      src="https://img.shields.io/badge/YOUTUBE-%40SrPancakes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  
-  <a href="https://www.medium.com/@SrPancakes" target="_blank" rel="noreferrer">
-    <img 
-      src="https://img.shields.io/badge/MEDIUM-%40SrPancakes-ffe140?style=for-the-badge&logo=medium&logoColor=white" /></a>
-
-  <a href="https://twitter.com/SrPancakesDev" target="_blank" rel="noreferrer">
-    <img 
-      src="https://img.shields.io/badge/TWITTER-%40SrPancakes-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-      
-</div>
-
-
 ### aboutMe.js
 
 ```javascript
@@ -75,7 +58,3 @@ const lucas = {
 </p>
 
 <br />
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/srpancakes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
